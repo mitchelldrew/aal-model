@@ -6,7 +6,7 @@ plugins {
 }
 
 group = 'com.aal'
-version = '0.0.001'
+version = '0.0.002'
 
 repositories {
     mavenCentral()
